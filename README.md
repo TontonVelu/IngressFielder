@@ -1,6 +1,6 @@
 # IngressFielder
 
-pour utiliser l'outil, exécutez le fichier bin\Debug\Fielder.exe 
+pour utiliser l'outil, telechargez et exécutez le fichier bin\Debug\Fielder.exe 
 
 
 # comment ça marche ?
