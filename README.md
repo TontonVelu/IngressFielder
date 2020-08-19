@@ -15,3 +15,6 @@ pour utiliser l'outil, exécutez le fichier bin\Debug\Fielder.exe
 
 - le bouton "Clear" efface tous les portails/fields
 - le texte sous chaque portail indique son numéro et le nombre de clefs nécessaires pour faire le field. 
+
+
+![](fielder.gif)
