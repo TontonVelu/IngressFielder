@@ -1,0 +1,9 @@
+C:\perso\Fielder\Fielder\Fielder\bin\Debug\Fielder.exe.config
+C:\perso\Fielder\Fielder\Fielder\bin\Debug\Fielder.exe
+C:\perso\Fielder\Fielder\Fielder\bin\Debug\Fielder.pdb
+C:\perso\Fielder\Fielder\Fielder\obj\Debug\filder.Form1.resources
+C:\perso\Fielder\Fielder\Fielder\obj\Debug\tranparentForm.Properties.Resources.resources
+C:\perso\Fielder\Fielder\Fielder\obj\Debug\Fielder.csproj.GenerateResource.Cache
+C:\perso\Fielder\Fielder\Fielder\obj\Debug\Fielder.exe
+C:\perso\Fielder\Fielder\Fielder\obj\Debug\Fielder.pdb
+C:\perso\Fielder\Fielder\Fielder\obj\Debug\Fielder.csprojResolveAssemblyReference.cache
