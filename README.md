@@ -18,3 +18,10 @@ pour utiliser l'outil, telechargez et exécutez le fichier bin\Debug\Fielder.exe
 
 
 ![](fielder.gif)
+ 
+
+# A faire
+
+- [ ] Pouvoir zoomer / drag and move le dessin
+- [ ] Ajout d'un recap/listing des clefs
+- [ ] Animation du field étape par étape
